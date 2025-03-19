@@ -31,8 +31,3 @@ Python 3.x
 SQLite (para la base de datos)
 
 Librería datetime (manejo de fechas)
-
-📄 Licencia
-
-Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y mejorarlo! ✨
-
